@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Computer vision thumbnail</title>
+  <desc id="desc">Abstract image frame and feature blocks for computer vision work.</desc>
+  <rect width="320" height="320" fill="#f8faf7"/>
+  <rect x="52" y="58" width="216" height="158" rx="6" fill="#ffffff" stroke="#2f4858" stroke-width="8"/>
+  <path d="M70 190l58-58 36 34 28-26 58 50" fill="none" stroke="#4c956c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="214" cy="102" r="24" fill="#f2c14e"/>
+  <rect x="78" y="238" width="164" height="16" rx="8" fill="#2f4858"/>
+  <rect x="112" y="266" width="96" height="12" rx="6" fill="#8aa79b"/>
+</svg>
